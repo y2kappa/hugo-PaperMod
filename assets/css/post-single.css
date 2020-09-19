@@ -3,6 +3,7 @@
 .post-header {
     margin-top: 24px;
     margin-bottom: var(--content-gap);
+    font-family: 'Fira Sans', sans-serif;
 }
 
 .post-title {
@@ -17,6 +18,7 @@
 }
 
 .post-content {
+    font-family: 'Fira Sans', sans-serif;
     color: var(--content);
 }
 
